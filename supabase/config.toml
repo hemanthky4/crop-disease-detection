@@ -1,0 +1,10 @@
+project_id = "ckjgursvepongxbobied"
+
+[functions.crop-recommend]
+verify_jwt = false
+
+[functions.disease-detect]
+verify_jwt = false
+
+[functions.yield-predict]
+verify_jwt = false
